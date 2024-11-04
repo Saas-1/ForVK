@@ -1,4 +1,4 @@
-package ForVK
+package main
 
 import (
 	"fmt"
